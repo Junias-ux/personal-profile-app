@@ -1,0 +1,19 @@
+{
+  "name": "personal-profile-app",
+  "version": "1.0.0",
+  "description": "Personal profile app",
+  "keywords": [
+    "app",
+    "profile"
+  ],
+  "license": "MIT",
+  "author": "Junias",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
